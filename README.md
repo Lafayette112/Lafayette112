@@ -7,7 +7,7 @@ Web Developer
 After switching careers, I decided to dive into the world of web development. Since then, I haven't looked back.
 
 *   🌍  I'm based in Brussels
-*   🖥️  See my portfolio at [My Website](http://portfolio-renan.io)
+*   🖥️  See my portfolio at [My Website](https://portfolio-renanko.vercel.app/)
 *   ✉️  You can contact me at [renanko07@gmail.com](mailto:renanko07@gmail.com)
 *   🚀  I'm currently working on [Crypto Tracker](http://crypto-hunter-mk.netlify.app/ )
 *   🧠  I'm learning NextJS - Prompt Engineering - JS
